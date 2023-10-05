@@ -1,0 +1,28 @@
+{
+    "characters": [
+        {
+            "name": "Guts",
+            "role": "Main Protagonist",
+            "description": "Guts is a lone mercenary with a tragic past. He wields a massive sword known as the Dragon Slayer and is on a quest for revenge against the God Hand.",
+            "image_url": "https://example.com/images/guts.jpg"
+        },
+        {
+            "name": "Griffith",
+            "role": "Leader of the Band of the Hawk",
+            "description": "Griffith is a charismatic and ambitious leader. He forms the Band of the Hawk and has a mysterious and complex connection with the God Hand.",
+            "image_url": "https://example.com/images/griffith.jpg"
+        },
+        {
+            "name": "Casca",
+            "role": "Commander of the Band of the Hawk",
+            "description": "Casca is a skilled warrior and Guts' love interest. She is fiercely loyal to Griffith and plays a crucial role in the story.",
+            "image_url": "https://example.com/images/casca.jpg"
+        },
+        {
+            "name": "Puck",
+            "role": "Fairy Companion",
+            "description": "Puck is a mischievous and tiny fairy who becomes Guts' companion. He provides comic relief in the dark world of Berserk.",
+            "image_url": "https://example.com/images/puck.jpg"
+        }
+    ]
+}

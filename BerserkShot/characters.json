@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Guts",
+        "role": "Protagonist",
+        "description": "Guts, the main protagonist of the dark and brutal world of Berserk, is a character with a tragic past that haunts his every step. Armed with the massive and legendary sword known as the Dragon Slayer, Guts embarks on an unrelenting quest for revenge against the enigmatic and malevolent beings known as the God Hand.\n\nHis journey is one of relentless battles and unimaginable hardships, and his character development is nothing short of extraordinary. Guts evolves from a solitary and ruthless mercenary into a complex and multi-dimensional hero as the story unfolds. His unwavering determination, unyielding strength, and enduring resilience make him a captivating and iconic figure in the realm of dark fantasy.",
+        "image_url": "guts-transparent"
+    },
+    {
+        "name": "Griffith",
+        "role": "Leader",
+        "description": "Griffith, the charismatic and enigmatic leader of the Band of the Hawk, is a character whose ambitions know no bounds. His magnetic presence draws followers to him like moths to a flame, and he assembles a formidable group of warriors to achieve his dreams of power and glory. However, Griffith's connection with the sinister God Hand adds an intriguing layer of complexity to his character. His actions and decisions are shrouded in mystery, making him both a captivating and morally ambiguous figure in the story. As the story unfolds, Griffith's character arc becomes one of the most compelling aspects of Berserk, and his impact on the world of the series is nothing short of profound.",
+        "image_url": "griffith-transparent"
+    },
+    {
+        "name": "Casca",
+        "role": "Commander",
+        "description": "Casca, the Commander of the Band of the Hawk, is not just a skilled warrior but also a central figure in the emotional and romantic dynamics of Berserk. She is Guts' love interest and possesses a fierce loyalty to Griffith that goes beyond mere camaraderie. Casca's character undergoes significant development as she grapples with the complexities of her relationships with both Guts and Griffith. Her journey is one of emotional turmoil, sacrifice, and resilience, and she plays a crucial role in shaping the events and themes of Berserk. Casca's character is a testament to the depth and complexity of the series' storytelling, making her a beloved and integral part of the narrative.",
+        "image_url": "casca-transparent"
+    },
+    {
+        "name": "Puck",
+        "role": "Fairy",
+        "description": "Puck, the mischievous and tiny fairy, brings a much-needed dose of levity to the dark and grim world of Berserk. As Guts' fairy companion, Puck provides moments of comic relief amidst the relentless violence and darkness that permeate the series. His lighthearted antics and unwavering loyalty endear him to both the characters and the readers, making him a beloved and iconic figure in the story. Puck's presence serves as a reminder that even in the most harrowing of circumstances, there can be moments of humor and camaraderie.",
+        "image_url": "puck-transparent"
+    },
+    {
+        "name": "Zodd",
+        "role": "Apostle",
+        "description": "Zodd, the powerful apostle with a formidable and beastly form, is a character known for his sheer strength and fascination with formidable opponents in battle. His enigmatic and intimidating presence adds a layer of unpredictability to the world of Berserk. Zodd's role as both an adversary and, at times, an ally to Guts and his group contributes to the complexity of the series' conflicts and alliances. His character embodies the relentless brutality of the Berserk universe and serves as a reminder of the dangers that lurk in every corner of the story's dark and unforgiving world.",
+        "image_url": "zodd-transparent"
+    },
+    {
+        "name": "Farnese",
+        "role": "Knight",
+        "description": "Farnese, a former member of a religious order, undergoes a profound transformation in her character as the story of Berserk progresses. Initially introduced as a zealous and devout individual, Farnese's journey leads her to join the Holy Iron Chain Knights, where she is exposed to a world of darkness and supernatural horrors. Her character development is a testament to the series' exploration of faith, belief, and the corrupting influence of power. Farnese's evolution from a fervent believer to a complex and morally conflicted character adds depth to the narrative and showcases the series' ability to delve into the psychological and philosophical aspects of its characters.",
+        "image_url": "farnese-transparent"
+    },
+    {
+        "name": "Serpico",
+        "role": "Strategist",
+        "description": "Serpico, a skilled strategist and sorcerer, emerges as a key ally to Guts and his group. Known for his intelligence and magical abilities, Serpico brings a unique set of skills to the team. His unwavering loyalty to Farnese and his complex relationship with her add layers of intrigue to his character. Serpico's role as a strategist and his mastery of magic make him an indispensable member of Guts' group as they navigate the treacherous and otherworldly challenges that confront them.",
+        "image_url": "serpico-transparent"
+    },
+    {
+        "name": "Schierke",
+        "role": "Sorcerer",
+        "description": "Schierke, a young witch with powerful magical abilities, becomes a vital member of Guts' group as she aids them with her spells and mystical knowledge. Her character adds a fantastical and mystical dimension to the series, introducing elements of the supernatural and the arcane. Schierke's growth as a witch and her deepening connection with the other characters contribute to the rich tapestry of relationships and dynamics that define Berserk's narrative.",
+        "image_url": "schierke-transparent"
+    }
+]
